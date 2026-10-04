@@ -21,7 +21,7 @@ Filters only change video thumbnails in lists. A video you open directly always 
 
 ## Install
 
-- **Chrome Web Store:** [add the link here once the listing is live]
+- **Chrome Web Store:** https://chromewebstore.google.com/detail/creatorblock/domjgpdaienbeocfkfgnadgiigmibanh
 - **From source (Chrome, Brave, Edge, Opera):**
   1. Download or clone this repository.
   2. Open `chrome://extensions` and turn on **Developer mode**.
